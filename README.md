@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Django.
 - 🌱 I’m currently learning AI.
+- 📫 How to reach me: https://www.linkedin.com/in/fatemepasandide/
 <!--
 **fatemepasandide/fatemepasandide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
