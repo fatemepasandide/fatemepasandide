@@ -35,7 +35,5 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)\
 ![NumPy](https://img.shields.io/badge/-NumPy-25383e?style=flat&logo=Numpy)\
 ![Jupyter](https://img.shields.io/badge/-Jupyter-25383e?style=flat&logo=Jupyter)\
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-25383e?style=flat&logo=Matplotlib)\
-![SkLearn](https://img.shields.io/badge/-SkLearn-25383e?style=flat&logo=SkLearn)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-25383e?style=flat&logo=Bootstrap)\
 ![Julia](https://img.shields.io/badge/-Julia-25383e?style=flat&logo=Julia)
