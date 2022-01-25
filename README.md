@@ -1,10 +1,10 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on Django & Machine Learning projetcs.
+- 🔭 I’m currently working on Django & Machine Learning projects.
 - 🌱 I’m currently learning AI. 
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-Linkedin-25383e?style=flat&logo=Linkedin)](https://www.linkedin.com/in/fatemepasandide/) , [![Gmail](https://img.shields.io/badge/-gmail-25383e?style=flat&logo=gmail)](fateme.psn@gmail.com) .
-
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-Linkedin-25383e?style=flat&logo=Linkedin)](https://www.linkedin.com/in/fatemepasandide/).
+- :computer: With 4 years' computer engineering education at Semnan university.
 <!--
 **fatemepasandide/fatemepasandide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)\
 ![NumPy](https://img.shields.io/badge/-NumPy-25383e?style=flat&logo=Numpy)\
 ![Jupyter](https://img.shields.io/badge/-Jupyter-25383e?style=flat&logo=Jupyter)\
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-25383e?style=flat&logo=Matplotlib)\
 ![SkLearn](https://img.shields.io/badge/-SkLearn-25383e?style=flat&logo=SkLearn)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-25383e?style=flat&logo=Bootstrap)\
 ![Julia](https://img.shields.io/badge/-Julia-25383e?style=flat&logo=Julia)
