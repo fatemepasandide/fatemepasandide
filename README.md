@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on Django & Machine Learning projects.
 - 🌱 Currently learning AI. 
-- :computer: With 4 years' computer engineering education at Semnan university.
+- :computer: With 4 years' Computer Engineering education at Semnan University.
 - :raising_hand_woman: Active learning, Problem solving, Teamwork.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-Linkedin-25383e?style=flat&logo=Linkedin)](https://www.linkedin.com/in/fatemepasandide/).
 <!--
