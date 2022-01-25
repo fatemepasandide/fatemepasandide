@@ -1,6 +1,9 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🔭 I’m currently working on Django.
-- 🌱 I’m currently learning AI.
+
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+- 🔭 I’m currently working on Django & Machine Learning projetcs.
+- 🌱 I’m currently learning AI. 
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-Linkedin-25383e?style=flat&logo=Linkedin)](https://www.linkedin.com/in/fatemepasandide/) , [![Gmail](https://img.shields.io/badge/-gmail-25383e?style=flat&logo=gmail)](fateme.psn@gmail.com) .
 
 <!--
 **fatemepasandide/fatemepasandide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +20,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Technology Stack
+### 🛠 &nbsp;Tech Stack
+[![Python](https://img.shields.io/badge/-Python-25383e?style=flat&logo=python)](https://www.python.org/)\
+[![Django](https://img.shields.io/badge/-Django-25383e?style=flat&logo=django&logoColor=092E20)](https://www.djangoproject.com/)\
+![SQL](https://img.shields.io/badge/-SQL-25383e?&logo=MySQL)\
+[![Git](https://img.shields.io/badge/-Git-25383e?style=flat&logo=git)](https://git-scm.com/)
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+
+### :cyclone:	&nbsp; I'v worked with:
+![Linux](https://img.shields.io/badge/-Linux-25383e?style=flat&logo=linux)\
+![Windows](https://img.shields.io/badge/-Windows-25383e?style=flat&logo=Windows)\
+![C++](https://img.shields.io/badge/-C++-25383e?&logo=c%2b%2b&logoColor=00599C)\
+![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)\
+![NumPy](https://img.shields.io/badge/-NumPy-25383e?style=flat&logo=Numpy)\
+![Jupyter](https://img.shields.io/badge/-Jupyter-25383e?style=flat&logo=Jupyter)\
+![SkLearn](https://img.shields.io/badge/-SkLearn-25383e?style=flat&logo=SkLearn)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-25383e?style=flat&logo=Bootstrap)\
+![Julia](https://img.shields.io/badge/-Julia-25383e?style=flat&logo=Julia)
