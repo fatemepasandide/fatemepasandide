@@ -1,8 +1,8 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on Django & Machine Learning projects.
-- 🌱 I’m currently learning AI. 
+- 🔭 Currently working on Django & Machine Learning projects.
+- 🌱 Currently learning AI. 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-Linkedin-25383e?style=flat&logo=Linkedin)](https://www.linkedin.com/in/fatemepasandide/).
 - :computer: With 4 years' computer engineering education at Semnan university.
 <!--
