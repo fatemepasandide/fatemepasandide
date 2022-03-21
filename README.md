@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 [![Python](https://img.shields.io/badge/-Python-25383e?style=flat&logo=python)](https://www.python.org/)\
 [![Django](https://img.shields.io/badge/-Django-25383e?style=flat&logo=django&logoColor=092E20)](https://www.djangoproject.com/)\
-![SQL](https://img.shields.io/badge/-SQL-25383e?&logo=MySQL)\
+![MySQL](https://img.shields.io/badge/-SQL-25383e?&logo=MySQL)\
 [![Git](https://img.shields.io/badge/-Git-25383e?style=flat&logo=git)](https://git-scm.com/)
 
 
