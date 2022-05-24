@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-25383e?&logo=c%2b%2b&logoColor=00599C)\
 ![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)\
 ![NumPy](https://img.shields.io/badge/-NumPy-25383e?style=flat&logo=Numpy)\
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-25383e?style=flat&logo=Scikit-learn)\
 ![Jupyter](https://img.shields.io/badge/-Jupyter-25383e?style=flat&logo=Jupyter)\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-25383e?style=flat&logo=Bootstrap)\
 ![Julia](https://img.shields.io/badge/-Julia-25383e?style=flat&logo=Julia)
