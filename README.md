@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)\
 ![NumPy](https://img.shields.io/badge/-NumPy-25383e?style=flat&logo=Numpy)\
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-25383e?style=flat&logo=Scikit-learn)\
+![SciPy](https://img.shields.io/badge/-SciPy-25383e?style=flat&logo=SciPy)\
 ![Jupyter](https://img.shields.io/badge/-Jupyter-25383e?style=flat&logo=Jupyter)\
 ![Linux](https://img.shields.io/badge/-Linux-25383e?style=flat&logo=linux)\
 ![Windows](https://img.shields.io/badge/-Windows-25383e?style=flat&logo=Windows)\
