@@ -5,7 +5,7 @@
 - 🌱 Currently learning AI. 
 
 - :raising_hand_woman: Active learning, Problem solving, Teamwork.
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-Linkedin-25383e?style=flat&logo=Linkedin)](https://www.linkedin.com/in/fatemepasandide/).
+
 <!--
 **fatemepasandide/fatemepasandide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
