@@ -1,7 +1,9 @@
 
 ## Hi there :wave: 
 
+
 - 🔭 Currently working on Django & Machine Learning projects.
+- :computer: With 4 years' Computer Engineering education.
 - 🌱 Currently learning AI. 
 
 - :raising_hand_woman: Active learning, Problem solving, Teamwork.
