@@ -27,10 +27,14 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/-Python-25383e?style=flat&logo=python)](https://www.python.org/)\
 [![Django](https://img.shields.io/badge/-Django-25383e?style=flat&logo=django&logoColor=092E20)](https://www.djangoproject.com/)\
 ![MySQL](https://img.shields.io/badge/-SQL-25383e?&logo=MySQL)\
-[![Git](https://img.shields.io/badge/-Git-25383e?style=flat&logo=git)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/-Git-25383e?style=flat&logo=git)](https://git-scm.com/)\
+![Docker](https://img.shields.io/badge/-Docker-25383e?style=flat&logo=docker)
+
 
 
 ### :cyclone:	&nbsp; I'v worked with:
+![FastAPI](https://img.shields.io/badge/-FastAPI-25383e?style=flat&logo=FastAPI)\
+![Celery](https://img.shields.io/badge/-Celery-25383e?style=flat&logo=Celery)\
 ![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)\
 ![NumPy](https://img.shields.io/badge/-NumPy-25383e?style=flat&logo=Numpy)\
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-25383e?style=flat&logo=Scikit-learn)\
