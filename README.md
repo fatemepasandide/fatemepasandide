@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ### :cyclone:	&nbsp; I'v worked with:
 ![FastAPI](https://img.shields.io/badge/-FastAPI-25383e?style=flat&logo=FastAPI)\
 ![Celery](https://img.shields.io/badge/-Celery-25383e?style=flat&logo=Celery)\
+![Redis](https://img.shields.io/badge/-Redis-25383e?style=flat&logo=Redis)\
 ![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)\
 ![NumPy](https://img.shields.io/badge/-NumPy-25383e?style=flat&logo=Numpy)\
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-25383e?style=flat&logo=Scikit-learn)\
