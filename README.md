@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 Currently working as a **Software Engineer** at Rayan Bours Co., building high-performance Django apps in production
+- 🔭 Currently working as a **Software Engineer**
 - 🐍 4+ years of backend experience with **Python, Django, DRF, and FastAPI**
 - 🏗️ Passionate about **software architecture**, distributed systems, and microservices
-- 🤖 Expanding into **Machine Learning** — recently completed Stanford's ML specialization on Coursera
+- 🤖 Expanding into **Machine Learning** recently completed Stanford's ML specialization on Coursera
 - 📫 Reach me at: fateme.psn@gmail.com
 
 ---
