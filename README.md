@@ -1,48 +1,37 @@
+## Hi there 👋
 
-## Hi there :wave: 
+- 🔭 Currently working as a **Software Engineer** at Rayan Bours Co., building high-performance Django apps in production
+- 🐍 4+ years of backend experience with **Python, Django, DRF, and FastAPI**
+- 🏗️ Passionate about **software architecture**, distributed systems, and microservices
+- 🤖 Expanding into **Machine Learning** — recently completed Stanford's ML specialization on Coursera
+- 📫 Reach me at: fateme.psn@gmail.com
 
+---
 
-- 🔭 Currently working on Django & Machine Learning projects.
-- :computer: With 4 years' Computer Engineering education.
-- 🌱 Currently learning AI. 
+### 🛠 Tech Stack
 
-- :raising_hand_woman: Active learning, Problem solving, Teamwork.
+[![Python](https://img.shields.io/badge/-Python-25383e?style=flat&logo=python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/-Django-25383e?style=flat&logo=django&logoColor=092E20)](https://www.djangoproject.com/)
+[![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-25383e?style=flat&logo=django)](https://www.django-rest-framework.org/)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-25383e?style=flat&logo=FastAPI)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-25383e?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/-Redis-25383e?style=flat&logo=Redis)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/-Docker-25383e?style=flat&logo=docker)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/-Git-25383e?style=flat&logo=git)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/-Linux-25383e?style=flat&logo=linux)](https://www.linux.org/)
 
-<!--
-**fatemepasandide/fatemepasandide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚙️ Also worked with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 🛠 &nbsp;Tech Stack
-[![Python](https://img.shields.io/badge/-Python-25383e?style=flat&logo=python)](https://www.python.org/)\
-[![Django](https://img.shields.io/badge/-Django-25383e?style=flat&logo=django&logoColor=092E20)](https://www.djangoproject.com/)\
-![MySQL](https://img.shields.io/badge/-SQL-25383e?&logo=MySQL)\
-[![Git](https://img.shields.io/badge/-Git-25383e?style=flat&logo=git)](https://git-scm.com/)\
-![Docker](https://img.shields.io/badge/-Docker-25383e?style=flat&logo=docker)
-
-
-
-### :cyclone:	&nbsp; I'v worked with:
-![FastAPI](https://img.shields.io/badge/-FastAPI-25383e?style=flat&logo=FastAPI)\
-![Celery](https://img.shields.io/badge/-Celery-25383e?style=flat&logo=Celery)\
-![Redis](https://img.shields.io/badge/-Redis-25383e?style=flat&logo=Redis)\
-![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)\
-![NumPy](https://img.shields.io/badge/-NumPy-25383e?style=flat&logo=Numpy)\
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-25383e?style=flat&logo=Scikit-learn)\
-![SciPy](https://img.shields.io/badge/-SciPy-25383e?style=flat&logo=SciPy)\
-![Jupyter](https://img.shields.io/badge/-Jupyter-25383e?style=flat&logo=Jupyter)\
-![Linux](https://img.shields.io/badge/-Linux-25383e?style=flat&logo=linux)\
-![Windows](https://img.shields.io/badge/-Windows-25383e?style=flat&logo=Windows)\
-![C++](https://img.shields.io/badge/-C++-25383e?&logo=c%2b%2b&logoColor=00599C)\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-25383e?style=flat&logo=Bootstrap)\
-![Julia](https://img.shields.io/badge/-Julia-25383e?style=flat&logo=Julia)
+![Celery](https://img.shields.io/badge/-Celery-25383e?style=flat&logo=Celery)
+![Jenkins](https://img.shields.io/badge/-Jenkins-25383e?style=flat&logo=Jenkins)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-25383e?style=flat&logo=argo)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-25383e?style=flat&logo=githubactions)
+![Sentry](https://img.shields.io/badge/-Sentry-25383e?style=flat&logo=Sentry)
+![MySQL](https://img.shields.io/badge/-MySQL-25383e?style=flat&logo=MySQL)
+![Pandas](https://img.shields.io/badge/-Pandas-25383e?style=flat&logo=Pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-25383e?style=flat&logo=Numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-25383e?style=flat&logo=Scikit-learn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-25383e?style=flat&logo=Jupyter)
+![Power BI](https://img.shields.io/badge/-Power%20BI-25383e?style=flat&logo=powerbi)
